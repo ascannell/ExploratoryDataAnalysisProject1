@@ -1,4 +1,4 @@
-# Script to create Plot 1, which is a histogram of Global Active Power
+# Script to create Plot 2, which is a plot of Global active power vs day of week
 
 # Check if data has been downloaded, if not then download and unzip
 # This assumes the archive would be unzipped if downloaded
