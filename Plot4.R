@@ -1,4 +1,4 @@
-# Script to create Plot 1, which is a histogram of Global Active Power
+# Script to create Plot 4, which is a panel of 4 plots
 
 # Check if data has been downloaded, if not then download and unzip
 # This assumes the archive would be unzipped if downloaded
